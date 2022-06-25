@@ -1,5 +1,4 @@
-# Sass Modules Demo
+# Sass Modules 
 
-Source code for project comparing the old Sass `@import` with the new `@use` and `@forward`.
-
-YouTube link: TBD
+Code example of using sass @use and @forward.
+Youtube video link:https://www.youtube.com/watch?v=dOnYNEXv9BM&t=2s
